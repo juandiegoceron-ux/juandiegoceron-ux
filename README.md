@@ -38,7 +38,7 @@ Soy un amante del desarrollado de software y estudiante de Ingeniería Biomédic
 
 Siempre estoy abierto a discutir sobre arquitectura de software, diseño de interfaces o nuevas oportunidades laborales.
 
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/juan-diego-ceron-duque-1208833a9/]
-* 📧 **Email:** [juandiegoceron64@gmail.com]
+* 💼 **LinkedIn:** https://www.linkedin.com/in/juan-diego-ceron-duque-1208833a9/
+* 📧 **Email:** juandiegoceron64@gmail.com
 
 > *"El buen diseño es invisible; el buen código también."*
