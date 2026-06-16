@@ -10,7 +10,7 @@ Soy un amante del desarrollado de software y estudiante de Ingeniería Biomédic
 * **Frontend Web:** React, Vite, HTML5, CSS3, JavaScript moderno.
 * **Desarrollo Móvil:** Flutter, Dart.
 * **Backend & Cloud:** Supabase, PostgreSQL, APIs RESTful.
-* **Infraestructura:** Docker, Docker Compose, Git, Vercel.
+* **Infraestructura:** Docker, Docker Compose, Git, Vercel, railway.
 * **Diseño UI/UX:** Figma, Glassmorphism, Sistemas de diseño (Outfit, Inter, Plus Jakarta Sans).
 
 ---
