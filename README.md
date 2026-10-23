@@ -1,7 +1,7 @@
 # ¡Hola! Soy Juan Diego Cerón Duque 👋
 
 
-Soy un amante del desarrollado de software y estudiante de Ingeniería Biomédica enfocado en crear **productos digitales de alto impacto**. Combino una sólida arquitectura técnica (Frontend y Backend) con un diseño UX/UI premium para construir plataformas escalables, rápidas y visualmente agradables.
+Soy un amante del desarrollo de software y estudiante de Ingeniería Biomédica enfocado en crear **productos digitales de alto impacto**. Combino una sólida arquitectura técnica (Frontend y Backend) con un diseño UX/UI premium para construir plataformas escalables, rápidas y visualmente agradables.
 
 ---
 
