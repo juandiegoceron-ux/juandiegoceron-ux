@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner Superior Dinámico -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=180&section=header&text=Juan%20Diego%20Cerón&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Biomedical%20Engineer%20%7C%20Full%20Stack%20%26%20Mobile%20Developer%20%7C%20UX/UI&descAlignY=62&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Juan%20Diego%20Cer%C3%B3n&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Biomedical%20Engineer%20%7C%20Full%20Stack%20and%20Mobile%20Developer%20%7C%20UX%20UI&descAlignY=62&descAlign=50" width="100%"/>
 
 <br/>
 
