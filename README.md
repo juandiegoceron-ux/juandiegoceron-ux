@@ -26,7 +26,7 @@ Estudiante de **Ingeniería Biomédica** y desarrollador de software enfocado en
 
 * 📍 **Ubicación:** Colombia 🇨🇴
 * 🎯 **Enfoque actual:** SaaS en producción, Aplicaciones Móviles multiplataforma y Sistemas Biomédicos/Control.
-* 💬 **Conversemos sobre:** React, Flutter, Supabase, arquitectura de software y diseño UI/UX.
+* 💬 **Conversemos sobre:** React, Three.js / WebGL, Flutter, Supabase, arquitectura de software y diseño UI/UX.
 
 ---
 
@@ -36,10 +36,22 @@ Estudiante de **Ingeniería Biomédica** y desarrollador de software enfocado en
 
 #### 🌐 Frontend Web
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### 🌌 3D, WebGL & Computación Gráfica
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
+![Canvas 2D](https://img.shields.io/badge/Canvas_2D-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white)
+
+#### 🎬 Animación & Motion Interactivo
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 #### 📱 Desarrollo Móvil
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
