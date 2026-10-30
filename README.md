@@ -96,9 +96,9 @@ Estudiante de **Ingeniería Biomédica** y desarrollador de software enfocado en
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=juandiegoceron-ux&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
+<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=juandiegoceron-ux&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
 &nbsp;
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandiegoceron-ux&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" />
+<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juandiegoceron-ux&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" />
 
 </div>
 
