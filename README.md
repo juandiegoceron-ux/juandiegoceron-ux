@@ -24,9 +24,9 @@
 
 Estudiante de **Ingeniería Biomédica** y desarrollador de software enfocado en la creación de **productos digitales de alto impacto**. Combino una sólida arquitectura técnica (Frontend, Mobile y Backend) con diseño **UX/UI premium** para construir soluciones escalables, rápidas y centradas en el usuario.
 
-* 📍 **Ubicación:** Colombia 🇨🇴
-* 🎯 **Enfoque actual:** SaaS en producción, Aplicaciones Móviles multiplataforma y Sistemas Biomédicos/Control.
-* 💬 **Conversemos sobre:** React, Three.js / WebGL, Flutter, Supabase, arquitectura de software y diseño UI/UX.
+*  **Ubicación:** Colombia 🇨🇴
+*  **Enfoque actual:** SaaS en producción, Aplicaciones Móviles multiplataforma y Sistemas Biomédicos/Control.
+*  **Conversemos sobre:** React, Three.js / WebGL, Flutter, Supabase, arquitectura de software y diseño UI/UX.
 
 ---
 
@@ -85,14 +85,14 @@ Estudiante de **Ingeniería Biomédica** y desarrollador de software enfocado en
 
 | Proyecto | Descripción | Stack | Estado / Enlace |
 | :--- | :--- | :---: | :---: |
-| 🥇 **NutriCoach Pro** | **Plataforma SaaS integral para Coaches de Fitness y Nutrición.** Portal dual (Coach/Cliente), automatización de macros, planes interactivos, pasarela PayPal y generación de PDFs con marca blanca. | `React` `Vite` `Node.js` `JWT` | [🔗 Ver Demo en Vivo](https://nutricoach-eight.vercel.app/) |
-| 📦 **Inventario Web Pro** | **Sistema avanzado de gestión de inventario en la nube.** Arquitectura de alta velocidad para control de stock en tiempo real, catálogo y reportes optimizados sin fricciones. | `React` `Vite` `PostgreSQL` | [🔗 useinvpro.com](https://www.useinvpro.com/) |
-| 📱 **INV. PRO (App Móvil)** | **Aplicación móvil nativa para inventarios.** Autenticación en tiempo real, animaciones fluidas tipo Hero, modo oscuro elegante con Glassmorphism y contenedorizada con Docker. | `Flutter` `Dart` `Supabase` `Docker` | [💻 Ver Repositorio](https://github.com/juandiegoceron-ux/tum-flutter-challenge) |
-| 🎛️ **Controlador PID Bola-Viga** | **Control digital discreto para sistema dinámico inestable.** Implementación física y de software de un lazo de control PID para estabilización de posición en Arduino UNO. | `C++` `Arduino` `Hardware` | [💻 Ver Repositorio](https://github.com/juandiegoceron-ux/bola-viga-pid) |
+|  **NutriCoach Pro** | **Plataforma SaaS integral para Coaches de Fitness y Nutrición.** Portal dual (Coach/Cliente), automatización de macros, planes interactivos, pasarela PayPal y generación de PDFs con marca blanca. | `React` `Vite` `Node.js` `JWT` | [🔗 Ver Demo en Vivo](https://nutricoach-eight.vercel.app/) |
+|  **Inventario Web Pro** | **Sistema avanzado de gestión de inventario en la nube.** Arquitectura de alta velocidad para control de stock en tiempo real, catálogo y reportes optimizados sin fricciones. | `React` `Vite` `PostgreSQL` | [🔗 useinvpro.com](https://www.useinvpro.com/) |
+|  **INV. PRO (App Móvil)** | **Aplicación móvil nativa para inventarios.** Autenticación en tiempo real, animaciones fluidas tipo Hero, modo oscuro elegante con Glassmorphism y contenedorizada con Docker. | `Flutter` `Dart` `Supabase` `Docker` | [💻 Ver Repositorio](https://github.com/juandiegoceron-ux/tum-flutter-challenge) |
+|  **Controlador PID Bola-Viga** | **Control digital discreto para sistema dinámico inestable.** Implementación física y de software de un lazo de control PID para estabilización de posición en Arduino UNO. | `C++` `Arduino` `Hardware` | [💻 Ver Repositorio](https://github.com/juandiegoceron-ux/bola-viga-pid) |
 
 ---
 
-### 📊 Métricas de GitHub
+###  Métricas de GitHub
 
 <div align="center">
 
