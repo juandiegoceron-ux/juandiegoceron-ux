@@ -120,9 +120,13 @@ Estudiante de **Ingeniería Biomédica** y desarrollador de software enfocado en
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=juandiegoceron-ux&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
+<img height="175" src="./assets/github-stats.svg" alt="GitHub Stats" />
 &nbsp;
-<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juandiegoceron-ux&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" />
+<img height="175" src="./assets/top-langs.svg" alt="Top Languages" />
+
+<br/><br/>
+
+<img height="165" src="https://streak-stats.demolab.com/?user=juandiegoceron-ux&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=10B981&currStreakLabel=00D9FF" alt="GitHub Streak" />
 
 </div>
 

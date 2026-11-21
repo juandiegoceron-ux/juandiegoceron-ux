@@ -1,0 +1,31 @@
+<svg width="440" height="175" viewBox="0 0 440 175" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="accentGradL" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10B981"/>
+      <stop offset="100%" stop-color="#00D9FF"/>
+    </linearGradient>
+    <clipPath id="barClip">
+      <rect x="0" y="0" width="392" height="10" rx="5"/>
+    </clipPath>
+  </defs>
+  <rect x="0.5" y="0.5" width="439" height="174" rx="10" fill="#0D1117" stroke="#21262D"/>
+  <rect x="0.5" y="0.5" width="439" height="3" rx="1.5" fill="url(#accentGradL)"/>
+
+  <text x="24" y="34" fill="#00D9FF" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="16" font-weight="700">Lenguajes Más Usados</text>
+
+  <g transform="translate(24, 48)" clip-path="url(#barClip)">
+    <rect x="0.00" y="0" width="193.67" height="10" fill="#3572A5"/>
+    <rect x="193.67" y="0" width="63.21" height="10" fill="#663399"/>
+    <rect x="256.88" y="0" width="63.03" height="10" fill="#f1e05a"/>
+    <rect x="319.91" y="0" width="27.60" height="10" fill="#e34c26"/>
+    <rect x="347.51" y="0" width="22.62" height="10" fill="#3178c6"/>
+    <rect x="370.13" y="0" width="21.87" height="10" fill="#f34b7d"/>
+  </g>
+
+  <g transform="translate(24, 88)"><circle cx="5" cy="-4" r="5" fill="#3572A5"/><text x="17" y="0" fill="#E6EDF3" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12.5" font-weight="600">Python</text><text x="176" y="0" fill="#8B949E" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" text-anchor="end">49.4%</text></g>
+  <g transform="translate(224, 88)"><circle cx="5" cy="-4" r="5" fill="#663399"/><text x="17" y="0" fill="#E6EDF3" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12.5" font-weight="600">CSS</text><text x="176" y="0" fill="#8B949E" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" text-anchor="end">16.1%</text></g>
+  <g transform="translate(24, 116)"><circle cx="5" cy="-4" r="5" fill="#f1e05a"/><text x="17" y="0" fill="#E6EDF3" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12.5" font-weight="600">JavaScript</text><text x="176" y="0" fill="#8B949E" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" text-anchor="end">16.1%</text></g>
+  <g transform="translate(224, 116)"><circle cx="5" cy="-4" r="5" fill="#e34c26"/><text x="17" y="0" fill="#E6EDF3" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12.5" font-weight="600">HTML</text><text x="176" y="0" fill="#8B949E" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" text-anchor="end">7.0%</text></g>
+  <g transform="translate(24, 144)"><circle cx="5" cy="-4" r="5" fill="#3178c6"/><text x="17" y="0" fill="#E6EDF3" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12.5" font-weight="600">TypeScript</text><text x="176" y="0" fill="#8B949E" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" text-anchor="end">5.8%</text></g>
+  <g transform="translate(224, 144)"><circle cx="5" cy="-4" r="5" fill="#f34b7d"/><text x="17" y="0" fill="#E6EDF3" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12.5" font-weight="600">C++</text><text x="176" y="0" fill="#8B949E" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" text-anchor="end">5.6%</text></g>
+</svg>
