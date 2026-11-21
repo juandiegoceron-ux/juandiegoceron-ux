@@ -6,15 +6,7 @@
 <br/>
 
 <!-- Botones de Contacto -->
-<a href="https://www.linkedin.com/in/juan-diego-ceron-duque-1208833a9/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:juandiegoceron64@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://portfolio-steel-three-k7q0hqmuhs.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portafolio_Web-111111?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" alt="Portfolio"/>
-</a>
+<a href="https://www.linkedin.com/in/juan-diego-ceron-duque-1208833a9/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;<a href="mailto:juandiegoceron64@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;<a href="https://portfolio-steel-juandcd.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portafolio_Web-111111?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" alt="Portfolio"/></a>
 
 <br/><br/>
 
