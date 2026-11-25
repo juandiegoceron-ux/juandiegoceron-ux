@@ -16,7 +16,7 @@
 
   <g font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13">
     <text x="24" y="66" fill="#8B949E">Contribuciones (último año):</text>
-    <text x="255" y="66" fill="#FFFFFF" font-weight="700" text-anchor="end">1388</text>
+    <text x="255" y="66" fill="#FFFFFF" font-weight="700" text-anchor="end">1399</text>
 
     <text x="24" y="92" fill="#8B949E">Repositorios públicos:</text>
     <text x="255" y="92" fill="#FFFFFF" font-weight="700" text-anchor="end">6</text>
@@ -25,7 +25,7 @@
     <text x="255" y="118" fill="#FFFFFF" font-weight="700" text-anchor="end">5</text>
 
     <text x="24" y="144" fill="#8B949E">Seguidores / Forks:</text>
-    <text x="255" y="144" fill="#FFFFFF" font-weight="700" text-anchor="end">18 / 0</text>
+    <text x="255" y="144" fill="#FFFFFF" font-weight="700" text-anchor="end">19 / 0</text>
   </g>
 
   <g transform="translate(352, 94)">
@@ -35,5 +35,5 @@
     <text x="0" y="16" fill="#10B981" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="9.5" font-weight="600" text-anchor="middle">GITHUB API</text>
   </g>
 
-  <text x="416" y="162" fill="#484F58" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="9" text-anchor="end">Sync 2026-11-24</text>
+  <text x="416" y="162" fill="#484F58" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="9" text-anchor="end">Sync 2026-11-25</text>
 </svg>
